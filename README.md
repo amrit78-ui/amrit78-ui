@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-im a aritificial intelligence and machine learning engineer 
+I am an MCA student at Chandigarh University with a strong interest in Artificial Intelligence and Machine Learning. I enjoy learning how data, algorithms, and technology can be used to solve real-world problems and create intelligent systems.
 
 
 ## 🌐 Socials:
